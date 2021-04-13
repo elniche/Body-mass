@@ -1,0 +1,96 @@
+.Mafia {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    background-repeat: no-repeat;
+    word-spacing: 10px;
+    background-color: white;
+
+}
+
+body {   
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    background-image: url("weight.jpg");
+    z-index: 5;
+    
+}
+
+
+
+.Cuerpo {
+    display: flex;
+    justify-content: center;
+    align-items: enter;
+    height: 100vh;
+    width:100%;
+    margin-top: 80px;
+    filter: brightness(90%);
+    
+}
+
+.Pelo {
+    width: 400px;
+    height:600px; 
+}
+
+.row {
+    display: flex;
+    width: 100%;
+}
+
+#row1 {
+    color: black;
+    font-size: 1px;
+}
+
+.row2 {
+    color:black;
+    margin-top: 30%;
+    text-align: center;
+    font-size: 150%;
+    font-weight:  500px;
+    background-color: white;
+    
+}
+
+
+
+button {
+    display:flex;
+    height:2em;
+    flex:1;
+    justify-content: center;
+    align-items: center;
+    font-weight: 700;
+    background-color: gray;
+    color: white;
+    outline: 1px black solid;
+    cursor: pointer;
+}
+
+.alto {
+    color: black;
+    background-color: white;
+}
+
+.mega {
+    color: black;
+    background-color: white;
+    border-radius: 2px solid black;
+    font-size: 15px;
+    font-weight: 800;
+}
+
+#lion1 {
+    border: 1px solid black;
+    width: 100%;
+}
+
+#lion2 {
+    border: 1px solid black;
+     width: 100%;
+}
+
